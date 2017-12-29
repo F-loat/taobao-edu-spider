@@ -1,0 +1,18 @@
+{
+  "name": "nightmare",
+  "version": "0.1.0",
+  "description": "淘宝教育视频爬虫，基于Nightmare",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "F-loat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/F-loat/taobao-edu-spider.git"
+  },
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
